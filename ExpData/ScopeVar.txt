@@ -1,0 +1,8 @@
+2000000000.000000 
+70000 
+8 - Bits size
+2 - Vref
+0.000002- Time_Scale
+0.001000 - Ch1_Scale
+1.000000 - Ch2_Scale
+6 - Frequency count
